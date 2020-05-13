@@ -1,0 +1,29 @@
+
+body{
+    background-image:url('https://images.unsplash.com/photo-1557683311-eac922347aa1?ixlib=rb-1.2.1&w=1000&q=80');
+   backgroud-size:100vh 100vw;
+   font-family:Courier New;
+   hight:100vh;
+  }
+  
+  
+  .menu ul{
+    display:flex;
+    justify-content:space-around;}
+  .menu{
+    background-color:#87CEFA;  }
+  .menu li{
+    list-style:none; }
+  
+  a{color:#363636;
+    text-decoration:none;  }
+  a:hover{
+    text-decoration:underline;  }
+  
+  .site-title{
+    color:#1C1C1C;
+    text-align:center;}
+  .site-subtitle{
+    color:#363636;
+    text-align:center;
+  }
